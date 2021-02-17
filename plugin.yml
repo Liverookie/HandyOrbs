@@ -3,7 +3,7 @@ author: qKing12
 version: "2.1"
 main: me.qKing12.HandyOrbs.Main
 description: Orbs that come in handy.
-api-version: "1.13"
+api-version: "1.0.11"
 softdepend: [Multiverse-Core, MultiWorld]
 
 commands:
